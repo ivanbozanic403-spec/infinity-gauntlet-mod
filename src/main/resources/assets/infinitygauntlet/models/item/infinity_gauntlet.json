@@ -1,0 +1,386 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "infinitygauntlet:item/gauntlet/s0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "infinitygauntlet:item/gauntlet/s1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "infinitygauntlet:item/gauntlet/s2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "infinitygauntlet:item/gauntlet/s3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "infinitygauntlet:item/gauntlet/s4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "infinitygauntlet:item/gauntlet/s5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "infinitygauntlet:item/gauntlet/s6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "infinitygauntlet:item/gauntlet/s7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "infinitygauntlet:item/gauntlet/s8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "infinitygauntlet:item/gauntlet/s9"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "infinitygauntlet:item/gauntlet/s10"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "infinitygauntlet:item/gauntlet/s11"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "infinitygauntlet:item/gauntlet/s12"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "infinitygauntlet:item/gauntlet/s13"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "infinitygauntlet:item/gauntlet/s14"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "infinitygauntlet:item/gauntlet/s15"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "infinitygauntlet:item/gauntlet/s16"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "infinitygauntlet:item/gauntlet/s17"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "infinitygauntlet:item/gauntlet/s18"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "infinitygauntlet:item/gauntlet/s19"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "infinitygauntlet:item/gauntlet/s20"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "infinitygauntlet:item/gauntlet/s21"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "infinitygauntlet:item/gauntlet/s22"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "infinitygauntlet:item/gauntlet/s23"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "infinitygauntlet:item/gauntlet/s24"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "infinitygauntlet:item/gauntlet/s25"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "infinitygauntlet:item/gauntlet/s26"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "infinitygauntlet:item/gauntlet/s27"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "infinitygauntlet:item/gauntlet/s28"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "infinitygauntlet:item/gauntlet/s29"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "infinitygauntlet:item/gauntlet/s30"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "infinitygauntlet:item/gauntlet/s31"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "infinitygauntlet:item/gauntlet/s32"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "infinitygauntlet:item/gauntlet/s33"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "infinitygauntlet:item/gauntlet/s34"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "infinitygauntlet:item/gauntlet/s35"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "infinitygauntlet:item/gauntlet/s36"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "infinitygauntlet:item/gauntlet/s37"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "infinitygauntlet:item/gauntlet/s38"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "infinitygauntlet:item/gauntlet/s39"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "infinitygauntlet:item/gauntlet/s40"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 41
+      },
+      "model": "infinitygauntlet:item/gauntlet/s41"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 42
+      },
+      "model": "infinitygauntlet:item/gauntlet/s42"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 43
+      },
+      "model": "infinitygauntlet:item/gauntlet/s43"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "infinitygauntlet:item/gauntlet/s44"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "infinitygauntlet:item/gauntlet/s45"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 46
+      },
+      "model": "infinitygauntlet:item/gauntlet/s46"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 47
+      },
+      "model": "infinitygauntlet:item/gauntlet/s47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 48
+      },
+      "model": "infinitygauntlet:item/gauntlet/s48"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 49
+      },
+      "model": "infinitygauntlet:item/gauntlet/s49"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 50
+      },
+      "model": "infinitygauntlet:item/gauntlet/s50"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 51
+      },
+      "model": "infinitygauntlet:item/gauntlet/s51"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 52
+      },
+      "model": "infinitygauntlet:item/gauntlet/s52"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 53
+      },
+      "model": "infinitygauntlet:item/gauntlet/s53"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 54
+      },
+      "model": "infinitygauntlet:item/gauntlet/s54"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 55
+      },
+      "model": "infinitygauntlet:item/gauntlet/s55"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 56
+      },
+      "model": "infinitygauntlet:item/gauntlet/s56"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 57
+      },
+      "model": "infinitygauntlet:item/gauntlet/s57"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 58
+      },
+      "model": "infinitygauntlet:item/gauntlet/s58"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 59
+      },
+      "model": "infinitygauntlet:item/gauntlet/s59"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60
+      },
+      "model": "infinitygauntlet:item/gauntlet/s60"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61
+      },
+      "model": "infinitygauntlet:item/gauntlet/s61"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 62
+      },
+      "model": "infinitygauntlet:item/gauntlet/s62"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 63
+      },
+      "model": "infinitygauntlet:item/gauntlet/s63"
+    }
+  ]
+}
